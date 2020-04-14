@@ -1,0 +1,31 @@
+table.archive-list tr:hover td, .boardlist, div.pages #bcatalogo, form table tr th, #u50, #update_thread, body, .tabuas, #options_div, #bcatalogo, #barquivo, #brecarregar, #bres, #bvoltar, .desktop-style div.boardlist:not(.bottom), #aviso, #catalog_search_button { background-color: black !important; background: black; !important; }
+.options_tab_icon, #announcements, form table tr th, div.pages a.selected, .info, .caixa.esquerda, .caixa.direita, div.ban, table.announcements-list tbody, .desktop-style div.boardlist:not(.bottom), #aceito, #naoaceito, #PostAreaToggle + span > a > label, #catalog_search_button, form[name="post"], textarea, input[type="text"], #email_selectbox, #quick-reply select, .dropzone .file-hint, #user_flag, form table input, #sort_by, #image_size, #search_field { color: white !important; }
+#announcements tfoot tr td, table.announcements { color: black !important; }
+.caixa.esquerda li, .caixa.direita li, div.ban p, .thread p a, .thread p, body, .tabuas, #options_div, table.archive-list tbody, span.omitted { color: #b2b2b2 !important; }
+.theme-catalog div.thread, table.archive-list tbody, .info, .caixa.esquerda, .caixa.direita, div.ban, table.announcements-list tbody, div.pages, #banlist td:hover, #PostAreaToggle + span > a > label, textarea, input[type="text"], #email_selectbox, #quick-reply select, .dropzone .file-hint, .dropzone, #user_flag, form table input, #sort_by, #image_size, #search_field { background: #0c0c0c !important; }
+div.ban h2, table.modlog tr th, #bcima, #bbaixo, #expa, #omi, #aceito, #naoaceito, .quick-reply-btn, .theme-catalog div.thread:hover { background: #191919 !important; }
+a:link:hover, h1, .intro span.subject { color: #2e5daa !important; }
+a:link { color: #4285f4 !important; text-decoration: none !important; }
+#PostAreaToggle + span > a > label, #toggleAnnouncements, #announcements tfoot tr td span, #bcatalogo, #barquivo, #brecarregar, #bres, #bvoltar, #update_thread, #catalog_search_button { border-bottom: solid 2px #2e5daa !important; border: none; border-radius: 0 !important; }
+#bcatalogo, #barquivo, #brecarregar, #bres, #bvoltar, .desktop-style div.boardlist:not(.bottom), #update_thread { border-radius: 0; }
+.desktop-style div.boardlist:not(.bottom) { border-top: 2px solid #4285f4; }
+hr { border-color: black; }
+div.post.reply, div.pages, #expa { border-color: #0c0c0c !important; border-radius: 3px; }
+.intro span.name, div.blotter { color: #00b3b3; }
+div.post.reply.highlighted { border-color: #242424; background-repeat: repeat-x; animation: animatedBackground 1s linear infinite alternate; }
+#aviso, form table input { border: 2px solid #191919; }
+div.boardlist a:hover { border-top: 3px solid #b2b2b2; }
+#banlist td:hover, textarea, input[type="text"], #email_selectbox, .quick-reply-btn, #quick-reply select, #user_flag, #u50, #image_size, #sort_by, #search_field, .theme-catalog div.thread, .theme-catalog div.thread:hover { border: 1px solid #191919; }
+#PostAreaToggle + span > a > label { border-bottom: 2px solid #191919 !important; }
+#PostAreaToggle + span > a > label:hover { color: #8a8a8a; }
+img[src*="spoiler"] { filter: invert(100%); }
+.dropzone .file-hint { border: 2px dashed #4d4d4d; }
+div.post.reply { box-shadow: none !important; background: #0c0c0c; }
+@keyframes animatedBackground {
+  from {
+    background-color: #0c0c0c;
+  }
+  to {
+    background-color: #242424;
+  }
+}
