@@ -1,0 +1,27 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+/* header */
+.app-header, .column-nav-item, .app-navigator, .app-title { background-color: black; }
+
+/* body */
+body { color: #c9c9c9; }
+.stream-item { border-bottom: 1px solid #191919; background-color: black; }
+.account-link, .column-title-back, .tweet-stat { color: white; }
+.column-header { background-color: #0c0c0c; color: white; border-bottom: 1px solid #191919; }
+.quoted-tweet { border: 1px solid #464646; color: #b2b2b2; }
+.app-columns-container { background-color: #0c0c0c; }
+.column, .compose-text-container { background-color: #0c0c0c; }
+.stat-word { color: #b2b2b2; }
+.tweet-stats, .tweet-detail-actions { border-top: 1px solid #191919; }
+.detail-view-inline { background-color: #191919; border-top: 1px solid #0c0c0c; border-bottom: 1px solid #0c0c0c; }
+.detail-view-inline-text { border: 1px solid #0c0c0c; background-color: #0c0c0c; }
+.scroll-conversation { background-color: black; }
+.compose-text { background-color: #0c0c0c; color: #b2b2b2; }
+.js-column { width: 50%; }
+
+/* profile */
+.prf-meta { background-color: black; border-top: 1px solid #191919; }
+.prf-stats li + li a { border-left: 1px solid #191919; }
+.prf-stats a { color: #b2b2b2; }
+.prf-stats a strong { color: white; }
+.social-proof-container { background-color: #191919; }
+.js-profile-columns { background-color: black; }
