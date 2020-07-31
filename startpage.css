@@ -1,0 +1,12 @@
+body, .footer__container { background-color: black !important; }
+a:link, .search-filter-time__dropdown { color: #4285f4 !important; }
+a:link:hover { color: #2e5daa !important; }
+.w-gl__result-title h3 { color: #dfdfdf !important; }
+.w-gl__result { color: #b2b2b2 !important; }
+.header__container { background-color: black !important; border: none !important; }
+.search-form__form { background-color: #0c0c0c !important; box-shadow: none; border: none !important; }
+.search-form__q { color: #b2b2b2; }
+.inline-nav-menu__container { border: none; }
+.header__logo { -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ filter: grayscale(100%); }
+
+/* annoying white thing to fix */
